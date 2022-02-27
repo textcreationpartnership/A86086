@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvarning from the Lord, to the town of Cambridge.</title>
+            <author>Harwood, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86086</idno>
+            <idno type="STC">Wing H1105</idno>
+            <idno type="STC">Thomason E853_20</idno>
+            <idno type="STC">ESTC R207463</idno>
+            <idno type="EEBO-CITATION">99866512</idno>
+            <idno type="PROQUEST">99866512</idno>
+            <idno type="VID">168310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168310)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E853[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvarning from the Lord, to the town of Cambridge.</title>
+                  <author>Harwood, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated and signed at end: Cambridge 14. day of the 5. month. 1655. By one of his servants who is despised of the world, known by the name of John Harrwood.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Septemb: 20 1655".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:168310:1" rendition="simple:additions"/>
+            <head>A VVARNING FROM THE LORD TO THE Town of Cambridge.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>Septemb: 20 1655</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Remble, tremble, tremble, all ſorts of people, who in prophaneneſs lives: A day of <hi>howling</hi> and <hi>bitter lamentation</hi> is comming upon you; your wicked pra<g ref="char:EOLhyphen"/>ctiſes are in remembrance, before the living God of life and power brought, who is dreadful and terrible to the workers of iniquity, and the day haſtens, wherein thou an account muſt give for all your filthy practiſes, and rewarded thou muſt be according to thy deeds: Thou <hi>Cambridge,</hi> who with <hi>Corazin</hi> art exalted above all other, becauſe of thy hu<g ref="char:EOLhyphen"/>mane wiſdome; but down the dreadful God of Heaven and Earth wil bring thee, all thy Sorcerie wil not ſave thee in the day of the Lords fierce wrath, which is comming upon thee; all thy profeſſion wil not cover thee, who art an enemy to the life of what thou in words profeſſeſt; now all thy coverings wil not hide thee in this the day of the Lord, who wil reward thee according to thy actions; and thy ſtoln expreſſions, which thou haſt ſtoln out of the Saints conditions, wil not avail thee in the day of thy calamity, for out of the Saints, life thou art found, who giveth thy meanings to the Saints conditions, and ſo wreſt their words, to make them ſutable to thy carnall ends; but this Cloak is alſo too narrow, it wil not hide thee, for found thou
+<pb n="2" facs="tcp:168310:2" rendition="simple:additions"/>art, covered with a covering, but not with the Spirit of the Lord; therefore upon thee wo and miſery is comming, for now is the Angels of the Lords preſence ready to execute judgment upon thee for thy pride and haughtineſs, and all thy filthy a<g ref="char:EOLhyphen"/>bominations, an account thou muſt give; the dreadful day of the Lord draweth nigh, and in this terrible day, all thy natural Languages, &amp; thy Logick, as <hi>Hebrew, Greek,</hi> and <hi>Latine,</hi> which thou calls the Originall Language, vvill not ſave thee from the judgment that is to come upon thee for the fierce Wrath of the living <hi>God</hi> is kindled againſt thee, the <hi>Vialls</hi> are ſet open, and are ready to be powred down upon thee, who art found filling up the meaſure of thy <hi>Fathers iniquity,</hi> the <hi>cry</hi> of the <hi>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nocent,</hi> is heard againſt thee, whom the <hi>Lord God</hi> of <hi>Heaven</hi> and <hi>Earth</hi> ſent to forewarn thee of the <hi>evil</hi> which is to come upon thee, whom thou whipped and perſecuted, for calling people to <hi>repentance,</hi> and exhorting them to fear the <hi>Lord,</hi> and the Lord hath ſince ſent diver of his faithfull <hi>Servants</hi> to forewarn you of this <hi>wrath</hi> w<hi rend="sup">ch</hi> is to come upon you, and yet you have ſhut your ears againſt them, and have them perſecuted and impriſoned, and groſly a<g ref="char:EOLhyphen"/>buſed, and ſo hath added to your <hi>tranſgreſsion,</hi> which wil add to your <hi>Torment;</hi> you have drunk deep draughts of the <hi>whores Cup,</hi> you are ful of <hi>filthineſs</hi> and <hi>abominations;</hi> and you muſt now taſt of the <hi>Wrath</hi> which is due unto you, you cannot fly from it, nor eſcape it; and the <hi>Witneſs</hi> for <hi>God</hi> in you (which is the <hi>Light</hi> of <hi>Ieſus Christ</hi>) wil teſtifie againſt you, when the <hi>Plagues</hi> and <hi>Judgements</hi> of <hi>God,</hi> is powred forth upon you, that his <hi>Iudge<g ref="char:EOLhyphen"/>ments</hi> are juſt; therefore now take <hi>Warning,</hi> and prize your time while you have it, and ſlight not this your <hi>day of viſitation,</hi> you <hi>Inhabitants</hi> of this <hi>Town</hi> of <hi>Cambridge,</hi> for the Lord will not al<g ref="char:EOLhyphen"/>waies ſtrive with you, ſit down in the <hi>duſt,</hi> and repent, and with ſpeed forſake the evil of your doings, leſt the <hi>Dore</hi> of <hi>Mercy</hi> be for ever ſhut againſt you: Remember your <hi>Father Eſau,</hi> ho lived in prophaneneſs, who would have repented, but he ſlipt his time and there was no place of <hi>repentance</hi> for him found,
+<pb n="2" facs="tcp:168310:2" rendition="simple:additions"/>art, covered with a covering, but not with the Spirit of the Lord; therefore upon thee wo and miſery is comming, for now is the Angels of the Lords preſence ready to execute judgment upon thee for thy pride and haughtineſs, and all thy filthy a<g ref="char:EOLhyphen"/>bominations, an account thou muſt give; the dreadful day of the Lord draweth nigh, and in this terrible day, all thy natural Languages, &amp; thy Logick, as <hi>Hebrew, Greek,</hi> and <hi>Latine,</hi> which thou calls the Originall Language, vvill not ſave thee from the judgment that is to come upon thee for the fierce Wrath of the living <hi>God</hi> is kindled againſt thee, the <hi>Vialls</hi> are ſet open, and are ready to be powred down upon thee, who art found filling up the meaſure of thy <hi>Fathers iniquity,</hi> the <hi>cry</hi> of the <hi>innocent,</hi> is heard againſt thee, whom the <hi>Lord God</hi> of <hi>Heaven</hi> and <hi>Earth</hi> ſent to forewarn thee of the <hi>evil</hi> which is to come upon thee, whom thou whipped and perſecuted, for calling people to <hi>repentance,</hi> and exhorting them to fear the <hi>Lord,</hi> and the Lord hath ſince ſent diver of his faithfull <hi>Servants</hi> to forewarn you of this <hi>wrath</hi> w<hi rend="sup">ch</hi> is to come upon you, and yet you have ſhut your ears againſt them, and have them perſecuted and impriſoned, and groſly a<g ref="char:EOLhyphen"/>buſed, and ſo hath added to your <hi>tranſgreſsion,</hi> which wil add to your <hi>Torment;</hi> you have drunk deep draughts of the <hi>whores Cup,</hi> you are ful of <hi>filthineſs</hi> and <hi>abominations;</hi> and you muſt now taſt of the <hi>Wrath</hi> which is due unto you, you cannot fly from it, nor eſcape it; and the <hi>Witneſs</hi> for <hi>God</hi> in you (which is the <hi>Light</hi> of <hi>Ieſus Christ</hi>) wil teſtifie againſt you, when the <hi>Plagues</hi> and <hi>Judgements</hi> of <hi>God,</hi> is powred forth upon you, that his <hi>Iudge<g ref="char:EOLhyphen"/>ments</hi> are juſt; therefore now take <hi>Warning,</hi> and prize your time while you have it, and ſlight not this your <hi>day of viſitation,</hi> you <hi>Inhabitants</hi> of this <hi>Town</hi> of <hi>Cambridge,</hi> for the Lord will not al<g ref="char:EOLhyphen"/>waies ſtrive with you, ſit down in the <hi>duſt,</hi> and repent, and with ſpeed forſake the evil of your doings, leſt the <hi>Dore</hi> of <hi>Mercy</hi> be for ever ſhut againſt you: Remember your <hi>Father Eſau,</hi> ho lived in prophaneneſs, who would have repented, but he ſlipt his time and there was no place of <hi>repentance</hi> for him found, And <hi>Judas</hi>
+               <pb n="3" facs="tcp:168310:2"/>who betrayed the innocent; remember who received a <hi>iuſt re<g ref="char:EOLhyphen"/>compence</hi> of <hi>reward</hi> according to his <hi>Works,</hi> and do not you think to eſcape the juſt <hi>iudgements</hi> of <hi>God,</hi> who are found acting the ſame things, for be aſſured it wil come heavie upon you, for the <hi>Lord</hi> is <hi>righteous,</hi> and with <hi>equity</hi> judgeth, and he wil reward you for your <hi>unrighteouſneſs;</hi> yea <hi>Vengeance</hi> in <hi>Flames</hi> of <hi>Fire</hi> ſhall be revealed upon the <hi>ungodly,</hi> the <hi>Mouth</hi> of the <hi>Lord</hi> hath ſpoken it, and his <hi>words</hi> ſhall not go forth in vain. Therefore howle you <hi>proud, ſtiff-necked, rebellious</hi> ones, who waſts and devours the <hi>crea<g ref="char:EOLhyphen"/>tures</hi> of <hi>God</hi> upon your <hi>luſts,</hi> now an <hi>Account</hi> you muſt give to the <hi>Creator,</hi> who heareth the cry of the <hi>oppreſſed,</hi> which lyeth groaning under the <hi>bondage</hi> of <hi>Corruption;</hi> and the <hi>Lord</hi> wil no longer wink at the <hi>Oppreſſor,</hi> for he is now comming to cut down the <hi>op<g ref="char:EOLhyphen"/>preſſor,</hi> and ſet his <hi>Creatures</hi> free, which hath been kept long in <hi>Bondage</hi> by you who live in <hi>luſt</hi> and <hi>pleaſures, fulneſs;</hi> and <hi>glutton<g ref="char:EOLhyphen"/>neſs;</hi> yea, the <hi>Sword</hi> of the <hi>Lord God</hi> is drawn againſt you, you <hi>Belly-Gods,</hi> who feeds your ſelves withouthe fear of <hi>God;</hi> for the ſlaughter ye are; the edge of the ſword you cannot eſcape, you bloody perſecutors, haters and enviers of the <hi>righteous ſeed;</hi> againſt you the edge of the ſword is turned, and you cannot eſcape; for the Lord wil cut you down; the <hi>Lord</hi> ſees your plotting, and ſe<g ref="char:EOLhyphen"/>cret actings againſt his <hi>dear ſervants and children,</hi> you deceitful <hi>Prieſts,</hi> and corrupt <hi>Magiſtrates,</hi> who combine together to mur<g ref="char:EOLhyphen"/>ther the <hi>innocent,</hi> ſo far as your Power extends; but praiſed be our <hi>Lord God</hi> for ever, who hath your Power limited, ſo that you cannot go beyond your bounds; your ſnares the Lord wil break in pieces, which you make to catch the innocent; and the Pits you dig for others you into them muſt fall; no weapons which you form againſt the harmleſs ſhal proſper, the Lord hath ſpo<g ref="char:EOLhyphen"/>ken it, who is our Deliverer, who wil be your Deſtroyer; yea, your day of Deſtruction draws nigh; and the God of the world whom you pray unto, which ſo long hath blinded your eyes, ſhall not be able to deliver you in this day of the Lords fierce wrath, who wil plead with you by fire, and by his ſword, which
+<pb n="4" facs="tcp:168310:3"/>are already kindled, and drawn againſt you; and the enemies of the <hi>Lord</hi> and his ſervants, ſhal be conſumed and utterly deſtroy<g ref="char:EOLhyphen"/>ed fore ever: for the <hi>Beaſt</hi> and the <hi>falſe Prophet,</hi> which now bend their forces together to make war with the <hi>Lamb,</hi> ſhal be taken, and into the Lake muſt be caſt, that burneth with fire and brim<g ref="char:EOLhyphen"/>ſtone, and the Lamb ſhal have victory over you, you bloody per<g ref="char:EOLhyphen"/>ſecutors. And you Schollars, who come hither to learn naturall languages, who ſpend and waſt your time in idleneſs and pro<g ref="char:EOLhyphen"/>phanenefs, many of you living in pleaſures and wantonneſs; ſpor<g ref="char:EOLhyphen"/>ting your ſelves in the day-time: Conſider what you are doing, doth not the <hi>Lord</hi> ſee and know theſe things? And wil not he vi<g ref="char:EOLhyphen"/>ſit you for your vanities and fooleries? Do you think to eſcape the juſt judgmenns of God? Nay, your <hi>Logick</hi> and your vain <hi>Philoſo<g ref="char:EOLhyphen"/>phy</hi> wil not cover you; the Lord wil find you out, and you ſhall not eſcape unpuniſhed; you according to you actions ſhall be re<g ref="char:EOLhyphen"/>warded: Therefore to you (I ſay) repent, leſt the Evill Day come upon you at unawares, and there bee none to deliver you.</p>
+            <p>And you that keep Taverns and Alehouſes, who keeps Cards Dice and Shovel boords in your Houſes for to ſatisfie the luſts of vaine mindes, which delights in gaming and foolerie, and fills wine and ſtrong drink to men till they be inflamed, and ſo are the Upholders of that filthie Thing Drunkenneſs, which is one of the horrible, filthieſt ſins in the Nation.</p>
+            <p>Therefore, to You, (I ſay,) repent, and ſuffer ſuch things no more to bee uſed in your Houſes, (as is before mentioned,) leaſt you partaking of their ſinns, bee made partakers of their Judgements and Plagues, which ts neerer you, then yet you are aware of; for, Your cannot eſcape the Edge of the Sword, being found TREES which cumbers the ground.</p>
+            <p>And You TRADES-MEN, of what ſort ſoever, who uſes Lying and Diſſembling for Gaine, and are in the manie Words, out of the Doctrine of CRIST, who <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith, Let your, Yea, bee Yea, and your Nay bee Nay in
+<pb n="7" facs="tcp:168310:3"/>all things; for whatſoever commeth of more is Evill: What will your cheating and cozening availe You? Conſider, though you may through deceitful waits and meaſures, &amp; your crafty enluring ſpeeches, heap up much of the worldS treaſure, what wil it all profit you, in the day wherein you muſt give an account for all your diſhoneſt gain? then the ſame Meaſure you meet withall, the ſame to you ſhall be meaſured again: To you I ſay repent, and forſake the evil of your waies, and provoke the Lord no longer, for the Lord God of Life and power ſees and knows theſe things, and his judgments are night you, and his fury and indignation you cannot eſcape: therefore now I warn you in the name and fear of the Lord; Trades men, give over deceit and cozening, and deal plainlie and honeſtlie with your Brethren in your buying and ſelling, and give juſt weight and meaſure, and let your yea, be yea, and your nay, be nay, and uſe not ſo many vain words in your bargaining, for to the Lord an account you muſt give, for everie idle word; therefore now yon are warned, take heed of adding to your condemnati<g ref="char:EOLhyphen"/>on, for this is the free love of God to your ſouls to give you warning, therefore prize it now while your have time, leſt ſwift deſtruction come upon you, for now hath the Lord left you without excuſe, you cannot plead ignorance, and the Light in your own Conſciences (which is the Light of Jeſus Chriſt, wherewith he hath enlightned you) ſhall bear true teſtimony againſt you, and witneſs for the Lord, that his judgements are juſt, when they come to be executed upon you. And you Magi<g ref="char:EOLhyphen"/>ſtrates who are ſword-bearers, ſee that you bear the ſword no more in vain, but let the edge of the ſword be turned againſt the ſeed of evil doers, that by it all manner of Sin and wicked<g ref="char:EOLhyphen"/>neſs may be cut down, and the RIGHTEOUS SEED preſerved, that the TOWN may be ſet free from evil doers, that RIGHTEOUSNESSE may run down your Streets, &amp;c.</p>
+            <pb n="6" facs="tcp:168310:4"/>
+            <p> But firſt, ſin and wickedneſs ſee in your own ſelves, cut down by the ſword of the <hi>Lord</hi> (which is his righteous judgements) that the righteous ſeed in you may be raiſed up to rule and reign; that true judgement and juſtice may be executed by you, for he that ruleth over men muſt be juſt, for he is righteous that judgeth, and according to your judgement ſo ſhall you be jud<g ref="char:EOLhyphen"/>ged. And to the <hi>Vice-Chancellor</hi> (ſo called) and to you who are the chiefe in <hi>Colledges</hi> (as you call them) who ſtudy, and teach others natural <hi>Languages</hi> (as <hi>Hebrew, Greek,</hi> and <hi>Latine</hi>) and the Arts of <hi>Lodgick and <hi>Phyloſophy,</hi> which is all for the fire, for the knowledge of theſe things puffs up your minds, and keepes you from the true knowledge of the living God, who can be known no other way but through his Son, for none ſhal ever know God by ſtudying old Authors, and learning naturall Languages (as <hi>Hebrew, Greek,</hi> and <hi>Latine,</hi> which you call the Original) for na<g ref="char:EOLhyphen"/>tural men cannot receive the things of the Spirit of God, God is a Myſterie ſealed to that nature, which ſtudieth theſe things before mentioned, for proud, high-minded, ſelfewilled men, ſtudie and teach theſe Languages, but the ſecrets of God are kept from ſuch; God to his Son reveales himſelf, who is meek and lowlie, and thoſe who knows God, keeps his commands, and knows him by the revelation of his Son; and we, whom the <hi>Lord</hi> hath made himſelf known unto, through his Son, deny, and bear witneſs againſt all ſuch as comes not in by the dore, but climbs up another way in their own humane inventions; there<g ref="char:EOLhyphen"/>fore to you, I ſay, ceaſe from your own imaginations, ſtudies, and naturall Languages; for all your Heatheniſh Authors, which your Liberaries and ſtudies are ſo furniſhed withall, are for the Fire, read <hi>A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts</hi> 19.19, many who uſed curious Arts (as you do) brought their Books, and burned them, when they came to own the everlaſting truth, which by the Apoſtles was preached; and as you come to own the truth (which by the deſpiſed and per<g ref="char:EOLhyphen"/>ſecuted ones is preached) your books then wil be of little value, which is now by you ſo highly prized, when your minds comes
+<pb n="7" facs="tcp:168310:4"/>to be turned out of your vain imaginations, to the Light of Jeſus Chriſt in you, which Jeſus Chriſt hath lightned you with, you need not to ſtudy in old authors to know what mea<g ref="char:EOLhyphen"/>nings they gave, with their heatheniſh inventions upon the Saints conditions, who ſpoke forth the Scriptures, as they were moved by the Holy Ghoſt; nay, their meanings and their imaginations upon them are accurſed, &amp; your meanings which you give upon the Scriptures, and your imaginations upon them are accurſed; for the Scripture which was ſpoke from the life of the Saints, are of no private interpretations, and til you come to own the Light of Jeſus Chriſt, which he hath enlight<g ref="char:EOLhyphen"/>ned you with, and live in it, and receive it to be your Teachers, and even as it teach you to abide in it, that with it you may be led into the holie life, which life gave forth the Scripture; you cannot know the myſterie of the Scripture, for it is ſealed to all the Worlds Wiſdome, and one of the ſeaven Seals you cannot open, with which the Book of life is ſealed, with all your rot<g ref="char:EOLhyphen"/>ten ſtuff, nay you are not found worthie, your Lodgick and Phyloſophie, and all your naturall reaſon, and natural Langu<g ref="char:EOLhyphen"/>ages, is ſhut out of the Life of the Scriptures, you have the let<g ref="char:EOLhyphen"/>ter vvhich is the outſide, the husk, and vvith that you feed people, therefore they profit nothing by you; for both you who are Teachers, and take upon you to teach others, you and they who are taught by you, are with the Prodigal feeding a<g ref="char:EOLhyphen"/>mong Swine upon the husk, and your ſouls are ſtarved for want of living food, for the Bread of Life you are ſtrangers to, which if you once come to taſt on, you wil then Witneſs with me, that upon the husk you have been feeding; but this is chil<g ref="char:EOLhyphen"/>drens food, this is not to be caſt unto Dogs; you who are ful of envie and bitterneſs, and feeds upon the Tree of Knowledge, you cannot feed with children who hungers and thirſts continu<g ref="char:EOLhyphen"/>allie after living food; nay it is the hungrie that the Lord feeds with good things; you who are ful and rich ſhal emptie be ſent awaie, your are they which are to be fed vvith judgement; and
+<pb n="8" facs="tcp:168310:5"/>judge<g ref="char:EOLhyphen"/>ment you ſhall finde before <hi>Mercy;</hi> therefore to you I ſay <hi>repent</hi> in <hi>duſt</hi> and <hi>aſhes,</hi> leſt the <hi>dore</hi> of <hi>Mercy</hi> for ever be ſhut againſt you <hi>Vice-Chancellor,</hi> and you who are chiefe in <hi>Colledges,</hi> and <hi>Chiefe Priests,</hi> who above meaſure</hi> are exalted; you have builded your <hi>Neſts</hi> on high, but the <hi>Lord God</hi> of <hi>life</hi> and <hi>power</hi> wil you pul down, though your <hi>building</hi> be as high as <hi>Babel,</hi> yet the <hi>Lord</hi> wil bring you down; he that can receive it let him: This to you is a warning from the Lord,</p>
+            <closer>
+               <dateline>Cambridge <date>14. day of the 5. month. 1655.</date>
+               </dateline>
+               <signed>By one of his Servants who is deſpiſed of the world, known by the name of <hi>John Harrwood.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
